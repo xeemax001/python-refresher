@@ -1,7 +1,7 @@
 name = "zeeshan"
 age = 20
 print("Hellooo my name is {} and I am {} years old".format(name,age))
-
+print("WELL ITS COOL!")
 a = 50
 b=90
 if age>18:
